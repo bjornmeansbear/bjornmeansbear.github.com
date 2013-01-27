@@ -51,6 +51,9 @@
 
 html {
   background: #848478 url(http://soundmachinedream.com/sites/all/i/kblogo-bg.png) left top no-repeat;
+  height: 101%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
 
 body {
