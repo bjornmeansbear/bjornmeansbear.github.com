@@ -3,9 +3,9 @@ layout: default
 title: Kristian Bjornard - Designer / Thinker / Sustainabilitist
 ---
 
-<section id="home">
-  <h1>Thoughts, Notes, Miscellany</h1>
-  <ul class="posts">
+<section class="row">
+  <h1 class="span12">Thoughts, Notes, Miscellany</h1>
+  <ul class="posts span12">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
