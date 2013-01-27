@@ -9,23 +9,26 @@
     <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
     <!-- Homepage CSS -->
     <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+    <!-- Twitter Bootstrap and Custom CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <link rel="stylesheet" href="/css/ookb.css" type="text/css" media="screen, projection" />
     
   </head>
 
   <body>
   
-    <div class="site">
+    <div class="container">
 
-      <header class="title">
+      <header>
         <a href="/">Kristian Bj&oslash;rnard</a>
         <a class="extra" href="/">home</a>
       </header>
     
       {{ content }}
       
-      <footer class="footer">
-        <div class="contact">
+      <footer class="row">
+        <div class="span4">
           <p>
             Kristian Bj&oslash;rnard<br />
             Designer / Thinker / Sustainabilitist<br />
@@ -33,7 +36,7 @@
             kb@ookb.co
           </p>
         </div>
-        <div class="contact">
+        <div class="span4">
           <p>
 <!--             <a href="">Dribbble</a><br /> -->
             <a href="http://flickr.com/photos/bjornmeansbear/">flickr.com/photos/bjornmeansbear</a><br />
@@ -51,6 +54,10 @@
 
     </div>
   
+    <!-- Javascript Goes Here -->
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
   </body>
 
 </html>
