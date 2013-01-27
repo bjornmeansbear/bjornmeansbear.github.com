@@ -268,3 +268,38 @@ footer {
 /*=======================================*/
 /*=======================================*/
 /*=======================================*/
+
+/* Full Page Loading Screen */
+#loader {
+  width: 100% !important;
+  height: 100% !important;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: rgba(55,46,42,1);
+  color: rgba(132,132,120,1);
+  z-index: 1000000;
+}
+
+#loader .outer-container {
+  width: 100% !important;
+  height: 100% !important;
+  position: fixed;
+  display: table;
+  top: 0;
+  right: 0;
+}
+
+#loader .outer-container .inner-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#loader .outer-container .inner-container p {
+  width: 97.91667%;
+  float: left;
+  margin: 0 1.04167%;
+  font-size: 2.25em;
+  line-height: 1.33333em;
+  text-align: center;
+}
