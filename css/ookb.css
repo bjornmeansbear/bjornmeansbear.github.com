@@ -21,7 +21,10 @@ html {
 body {
   background: none !important;
   color: rgba(55,46,42,1); 
-  margin-top: 86px;
+}
+
+@media (min-width: 979px) { 
+  body { margin-top: 86px; }
 }
 
 a { 
