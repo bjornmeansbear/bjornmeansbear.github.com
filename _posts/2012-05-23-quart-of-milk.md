@@ -8,8 +8,6 @@ title: A Quart of Milk
 
 <p class="meta">23 May 2012 - Bolton Hill, Baltimore, MD</p>
 
-A Quart of Milk
-
 I've been busy lately, really busy, and half-gallons and gallons of Milk no longer seem to empty themselves in my (and my girlfriend's) refrigerator before their expiration. The problem was exacerbated by summer when drinking a frothy glass of milk just hasn’t seemed quite right. So, to try and keep spoilage to a minimum I switched to buying Quarts of milk instead.
 
 Until a year or two ago I used to consume so much milk — in pancakes, cereal, hot chocolate, coffee + tea, drinking by itself, etc. — that it always seemed foolish to buy milk in such small containers. Not so anymore. I’ve found the quart to be an under-appreciated container size in the contemporary american liquid world. The quart of milk is truly the perfect sized container (especially when in the glass, returnable variety). It actually fits in your hand and is lightweight. A child can easily lift it. Pouring is a breeze. No more spilt milk!
