@@ -1,5 +1,55 @@
 
-/*----- GENERAL -----*/
+/* Update a few things from Bootstrap.css */
+/*======*/
+/* =General
+=========================================================*/
+.left        {float:left;}
+.right       {float:right;}
+.clear       {clear:both;}
+.clearLeft   {clear:left;}
+.clearRight  {clear:right;}
+.add-bottom  { !important; }
+.add-top     { !important; }
+.relative    {position:relative !important; z-index:1;}
+/*
+=========================================================*/
+
+body { color: rgba(55,46,42,1); }
+
+a { 
+  color: black;
+  text-decoration: none;
+  background: rgba(132,132,120,.1);  
+  border-bottom: 1px solid #EC4079;
+  padding: 1px 2px 1px 2px;
+  /**/
+  transition: background;
+  transition-duration: 500ms;
+  -webkit-transition: background;
+  -webkit-transition-duration: 500ms;
+  -moz-transition: background;
+  -moz-transition-duration: 500ms;
+  -o-transition: background;
+  -o-transition-duration: 500ms;
+  -ms-transition: background;
+  -ms-transition-duration: 500ms;
+  }
+a:hover { 
+  color: white;
+  background: #EC4079;
+  }
+
+a:link {
+  -webkit-tap-highlight-color: #FF5E99;
+}
+
+::selection {
+background: #EC4079;
+color: white;
+text-shadow: none;
+}
+
+/**/
 
 /* TYPOGRAPHY STUFF */
 /* @Font-Face */
@@ -47,13 +97,69 @@
   font-weight: 300;
   src: local('Open Sans Light'), local('OpenSans-Light'), url('http://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff') format('woff');
 }
-/* END @Font-face */
 
-html {
-  background: #848478 url(http://soundmachinedream.com/sites/all/i/kblogo-bg.png) left top no-repeat;
+* {
   height: 101%;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+}
+
+body, p, a {
+  font-family: "gentium book basic", georgia, "times new roman", times, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+em, cite { font-style: italic; }
+
+h1  {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 800 !important;
+}
+
+h2,h3,h4,h5,h6 {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 400 !important;
+}
+
+.past h2 {
+  font-size: 17px;
+  line-height: 20px;
+  margin-bottom: 0;
+  text-decoration: line-through;
+}
+
+article h3  {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 800 !important;
+  font-size: 16px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+article ol {
+  margin: 0 0 0 4px;
+  padding: 0;
+}
+
+.stricken {
+  text-decoration: line-through;
+}
+
+/* /END TYPOGRAPHY */
+
+/*=======================================*/
+/*=======================================*/
+/*=======================================*/
+
+html {
+  background: #848478 url(http://soundmachinedream.com/sites/all/i/kblogo-bg.png) left top no-repeat;
 }
 
 body {
