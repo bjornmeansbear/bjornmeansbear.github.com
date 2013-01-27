@@ -210,7 +210,13 @@ header.navbar-fixed-top {
   font-size: 16px;
 }
 
-header h1, header h1 a { font-size: 16px; }
+header h1, header h1 a { font-size: 16px; margin: 0; }
+
+header a {
+  border: none;
+  display: block;
+  padding: 15px;
+}
 
 .navbar-fixed-top nav ul {
   list-style: none;
@@ -226,12 +232,9 @@ header h1, header h1 a { font-size: 16px; }
 }
 
 .navbar-fixed-top nav ul li a {
-  list-style: none;
-  font-weight: 400;
-  float: left;
-  padding: 15px;
   border-left: 1px solid rgba(175,171,104,1);
-  display: block;
+  font-weight: 400;
+  list-style: none;
 }
 
 /*=======================================*/
