@@ -211,9 +211,16 @@ header.navbar-fixed-top {
 }
 
 header h1, header h1 a { 
+  font-family: 'Open Sans', 'Nimbus Sans', Helvetica, Arial, sans-serif;
   font-size: 16px; 
   margin: 0; 
   line-height: 20px;
+  text-transform: uppercase;
+  }
+
+header h1 em, header h1 a em {
+  font-family: "gentium book basic", georgia, "times new roman", times, serif;
+  text-transform: lowercase;
   }
 
 header a {
