@@ -202,18 +202,15 @@ article ol {
 /*=======================================*/
 
 /* Header & Navbar Edits*/
-header {
+header.navbar-fixed-top {
   height: 50px;
   line-height: 50px;
   font-size: 16px;
-}
-
-header h1, header h1 a { font-size: 16px; }
-
-.navbar-fixed-top {
   background: #848478;
   border-color: rgba(175,171,104,1);
 }
+
+header h1, header h1 a { font-size: 16px; }
 
 .navbar-fixed-top nav ul {
   list-style: none;
