@@ -28,7 +28,7 @@ body {
 }
 
 a { 
-  color: black;
+  color: rgba(55,46,42,1); 
   text-decoration: none;
   background: rgba(132,132,120,.1);  
   border-bottom: 1px solid #EC4079;
