@@ -56,5 +56,6 @@ html {
 body {
   font-family: "gentium book basic", Georgia, "Times New Roman", Times, serif;
   color: #2F2926;
+  background: none !important;
 }
 
