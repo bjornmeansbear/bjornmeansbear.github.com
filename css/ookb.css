@@ -201,7 +201,7 @@ article ol {
 /*=======================================*/
 /*=======================================*/
 
-/* Header */
+/* Header & Navbar Edits*/
 header {
   height: 50px;
   line-height: 50px;
@@ -210,19 +210,32 @@ header {
 
 header h1, header h1 a { font-size: 16px; }
 
-/* NAVBAR EDITS */
-.navbar-fixed-top, .navbar-inner {
+.navbar-fixed-top {
   background: #848478;
-  border-color: #EC4079;
+  border-color: rgba(175,171,104,1);
 }
 
-nav .active > a, nav .active > a:hover, nav .active > a:focus {
-  background-color: rgba(55,46,42,1);
+.navbar-fixed-top nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-.navbar-inverse .brand, .navbar-inverse nav > li > a {
-  color: rgba(55,46,42,1);
+.navbar-fixed-top nav ul li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-.navbar-inverse .navbar-inner a {border: none;}
+.navbar-fixed-top nav ul li a {
+  list-style: none;
+  font-weight: 400;
+  float: left;
+  padding: 15px;
+  border-left: 1px solid rgba(175,171,104,1);
+  display: block;
+}
 
+/*=======================================*/
+/*=======================================*/
+/*=======================================*/
