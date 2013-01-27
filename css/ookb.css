@@ -305,4 +305,8 @@ footer {
   text-align: center;
 }
 
-#loader h1 {text-align: center;}
+#loader h1 {
+  margin-top: .5em;
+  text-align: center;
+  text-transform: uppercase;
+  }
