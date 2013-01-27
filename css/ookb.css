@@ -200,6 +200,13 @@ article ol {
 /*=======================================*/
 /*=======================================*/
 
+/* Header */
+header {
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+}
+
 /* NAVBAR EDITS */
 .navbar-inverse .navbar-inner {
   background: #848478;
