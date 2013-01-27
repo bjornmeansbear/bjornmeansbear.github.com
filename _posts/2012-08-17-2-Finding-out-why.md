@@ -1,6 +1,7 @@
 ---
-Date: 2012-08-17 15:10
-Title: Finding Out Why
+layout: post
+date: 2012-08-17 15:10
+title: Finding Out Why
 ---
 
 When it comes to sustainability the current system we’re living in fails. It fails for reasons of design. Our systems of living, driving, eating, watching TV, have all been designed poorly; well, maybe not “poorly,” but with a different era’s needs and resources in mind.

@@ -1,4 +1,5 @@
 ---
+layout: post
 Date: 2012-08-21 17:28
 Title: The Attainability of Sustainability
 ---
