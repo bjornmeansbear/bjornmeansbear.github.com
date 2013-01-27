@@ -4,6 +4,11 @@ date: 2012-08-17 10:23
 title: Beginnings
 ---
 
+{{ page.title }}
+================
+
+{{ page.date }}
+
 One afternoon, I am not exactly sure when, but sometime in mid-2006, I began looking for a way to drive a car that would not require typical, fossil fuel derived gasoline. This led me to BioDiesel and WVO and a group in Minneapolis running a company called SundaysEnergy (though at that time it was still BioDiesel Blue). I ended up attending several workshops on making biodiesel and running a diesel on vegetable oil and was hooked. I thought, why weren’t more people onto/into this?
 
 Part of the answer is that it is a pain in the ass.

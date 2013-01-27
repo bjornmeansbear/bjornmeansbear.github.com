@@ -4,6 +4,11 @@ date: 2012-08-17 15:10
 title: Finding Out Why
 ---
 
+{{ page.title }}
+================
+
+{{ page.date }}
+
 When it comes to sustainability the current system we’re living in fails. It fails for reasons of design. Our systems of living, driving, eating, watching TV, have all been designed poorly; well, maybe not “poorly,” but with a different era’s needs and resources in mind.
 
 This all began with the industrial revolution, and at the time, the goal was to progress humanity towards new goals a levels of improvement and achievement. Now, over a hundred years later, we have not moved the goals forward to where we need now in order to continue to progress.

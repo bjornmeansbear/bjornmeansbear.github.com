@@ -4,6 +4,11 @@ Date: 2012-08-21 17:28
 Title: The Attainability of Sustainability
 ---
 
+{{ page.title }}
+================
+
+{{ page.date }}
+
 When something is called _Green_ or _Sustainable_ it is just a name, just adjectives. A description like green does not make it the right or better solution, it just makes it an alternative. These ideas need to be described in a way that references concrete economic, political, and cultural terms instead of just some new buzzword. We should be focussed on what underlying concepts make something sustainable. Let’s talk about what makes sense, use real world terms, and do not mention global warming. We must push progressive reform on design and commerce. This is more than just green or sustainable.
 
 Most design is part of the problem, driven by the same waste and lack of connection to what “matters” just like the rest of our culture. Design needs to reconnect with the principles of where, why, and how things are created if it wishes to push forward and stay at the progressive edge. A combination of evolving folk vernacular and modern technology are required to make a difference.
