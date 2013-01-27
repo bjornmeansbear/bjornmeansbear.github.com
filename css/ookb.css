@@ -19,8 +19,9 @@ html {
 }
 
 body {
-  color: rgba(55,46,42,1); 
   background: none !important;
+  color: rgba(55,46,42,1); 
+  margin-top: 86px;
 }
 
 a { 
