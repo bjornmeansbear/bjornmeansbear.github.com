@@ -222,7 +222,8 @@ header h1, header h1 a {
   text-transform: uppercase;
   }
 
-header h1 a em {
+header h1 a em,
+#loader h1 em {
   font-family: "gentium book basic", georgia, "times new roman", times, serif !important;
   font-weight: 400 !important;
   text-transform: lowercase !important;
@@ -303,3 +304,5 @@ footer {
   line-height: 1.33333em;
   text-align: center;
 }
+
+#loader h1 {text-align: center;}
