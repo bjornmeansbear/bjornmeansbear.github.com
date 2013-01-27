@@ -323,10 +323,6 @@ footer {
   font-size: 80%;
   }
 
-#loader .outer-container .inner-container div p.close {
-  float: left;
-  }
-
 #loader .outer-container .inner-container > p.close {
   position: absolute;
   top: 10px;
