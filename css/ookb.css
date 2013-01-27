@@ -323,6 +323,12 @@ footer {
   font-size: 80%;
   }
 
+#loader .outer-container .inner-container div,
+#loader .outer-container .inner-container span.close {
+  text-align: center;
+  }
+
+
 #loader .outer-container .inner-container > p.close {
   position: absolute;
   top: 10px;
