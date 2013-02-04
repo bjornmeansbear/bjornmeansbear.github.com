@@ -1,13 +1,12 @@
 ---
 layout: post
-date: 2009-02-24
 title: The Motorola Motofone F3
 ---
 
 {{ page.title }}
 ================
 
-<time class="meta">{{ page.date }}</time>
+<p class="meta">24 Feb 2009 - MFA Studio, Baltimore, MD</p>
 
 ![Motofone Drawing by KB](/img/motofone.png)
 
