@@ -284,6 +284,17 @@ header a {
 /*=======================================*/
 /*=======================================*/
 
+/* Related Posts Styles */
+aside.related {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  margin-top: 39px;
+}
+
+
+/*=======================================*/
+/*=======================================*/
+/*=======================================*/
+
 /* Footer Edits*/
 footer {
   border-top: 1px solid rgba(175,171,104,1);
