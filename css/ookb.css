@@ -205,7 +205,7 @@ article ol {
   line-height: 26px;
 }
 
-#post p:first-child {
+#post p:nth-child(1) {
   font-size: 24px;
   line-height: 32.5;
 }
