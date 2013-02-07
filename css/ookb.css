@@ -317,6 +317,10 @@ main ul.posts li:first-child {
 
 main ul.posts li span {
   color: rgba(96,103,103,1);
+  font-size: 14px;
+  display: inline-block;
+  width: 100px;
+  text-transform: uppercase;
 }
 
 
