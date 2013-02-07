@@ -294,6 +294,28 @@ header a {
 /*=======================================*/
 /*=======================================*/
 
+/* Main homepage "notes" link list */
+main ul.posts {
+  font-size: 16px;
+  line-height: 26px;
+  /**/
+  margin-top: 45.5px;
+  list-style: none;
+  padding: 0;
+}
+
+main ul.posts li {
+  list-style: none;
+  margin: 13px 0;
+  padding: 0;
+}
+
+main ul.posts li:first-child {
+  font-size: 24px;
+  line-height: 32.5px;
+}
+
+
 /* Related Posts Styles */
 aside#related {
   border-top: 1px solid rgba(96,103,103,1);
