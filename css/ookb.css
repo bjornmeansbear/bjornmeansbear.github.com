@@ -200,9 +200,9 @@ article ol {
   text-decoration: line-through;
 }
 
-#post h3 {
+#post h1 {
   color: rgba(175,171,104,1);
-  font-size: 32px;
+  font-size: 48px;
 }
 
 #post p {
