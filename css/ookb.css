@@ -207,11 +207,18 @@ article ol {
   text-indent: 32.5px;
 }
 
-#post p:nth-child(2) {
+#post p:nth-child(3) {
   font-size: 24px;
   line-height: 32.5px;
   margin: 19.5px 0;
   text-indent: 0;
+}
+
+#post p.meta {
+  color: rgba(96,103,103,1);
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
 }
 
 
