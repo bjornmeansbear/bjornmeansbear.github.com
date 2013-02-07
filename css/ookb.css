@@ -164,7 +164,13 @@ p {
 }
 
 main p {
-  font-size: 1.1em;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+main p:first-child {
+  font-size: 24px;
+  line-height: 32.5;
 }
 
 em, cite { font-style: italic; }
