@@ -200,6 +200,11 @@ article ol {
   text-decoration: line-through;
 }
 
+#post h3 {
+  color: rgba(175,171,104,1);
+  font-size: 32px;
+}
+
 #post p {
   font-size: 16px;
   line-height: 26px;
