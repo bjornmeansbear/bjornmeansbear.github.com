@@ -163,6 +163,10 @@ p {
   hyphens: auto;
 }
 
+main p {
+  font-size: 1.1em;
+}
+
 em, cite { font-style: italic; }
 strong { font-weight: 700;}
 
