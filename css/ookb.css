@@ -286,9 +286,11 @@ header a {
 
 /* Related Posts Styles */
 aside#related {
+  border-top: 1px solid rgba(96,103,103,1);
   color: rgba(96,103,103,1);
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  margin-top: 45.5px;
+  margin-top: 39px;
+  padding-top: 19.5px;
 }
 
 
