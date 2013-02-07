@@ -203,6 +203,8 @@ article ol {
 #post p {
   font-size: 16px;
   line-height: 26px;
+  text-indent: 26px;
+  margin: 0;
 }
 
 #post p:nth-child(1) {
