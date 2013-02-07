@@ -285,9 +285,10 @@ header a {
 /*=======================================*/
 
 /* Related Posts Styles */
-aside.related {
+aside#related {
+  color: rgba(96,103,103,1);
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  margin-top: 39px;
+  margin-top: 45.5px;
 }
 
 
