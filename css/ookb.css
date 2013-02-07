@@ -207,9 +207,10 @@ article ol {
   margin: 0;
 }
 
-#post p:nth-child(1) {
+#post p:first-child {
   font-size: 24px;
-  line-height: 32.5;
+  line-height: 32.5px;
+  margin: 19.5px 0;
 }
 
 
