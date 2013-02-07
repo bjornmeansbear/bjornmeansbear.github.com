@@ -1,15 +1,15 @@
 ---
 layout: post
-Date: 2012-07-29 23:48
+date: 2012-07-29 23:48
 Title: Why So Much Work?
 ---
 
 {{ page.title }}
 ================
 
-{{ page.date }}
+<time class="meta">{{ page.date }}</time>
 
-# I mean it
+## I mean it
 
 I just want to post a few things, then link them together, and put whatever I need up at any given time… in my mind this is so easy; why so hard using a web framework? Hopefully this will be much easier…[^1]
 

@@ -163,16 +163,6 @@ p {
   hyphens: auto;
 }
 
-main p {
-  font-size: 16px;
-  line-height: 26px;
-}
-
-main p:first-child {
-  font-size: 24px;
-  line-height: 32.5;
-}
-
 em, cite { font-style: italic; }
 strong { font-weight: 700;}
 
@@ -209,6 +199,17 @@ article ol {
 .stricken {
   text-decoration: line-through;
 }
+
+#post p {
+  font-size: 16px;
+  line-height: 26px;
+}
+
+#post p:first-child {
+  font-size: 24px;
+  line-height: 32.5;
+}
+
 
 /* /END TYPOGRAPHY */
 

@@ -6,7 +6,7 @@ title: The Motorola Motofone F3
 {{ page.title }}
 ================
 
-<p class="meta">24 Feb 2009 - MFA Studio, Baltimore, MD</p>
+<span class="meta">24 Feb 2009 - MFA Studio, Baltimore, MD</span>
 
 ![Motofone Drawing by KB](/img/motofone.png)
 
