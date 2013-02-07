@@ -7,7 +7,7 @@ Title: Why So Much Work?
 {{ page.title }}
 ================
 
-<time class="meta">{{ page.date }}</time>
+<p class="meta">{{ page.date }}</p>
 
 ## I mean it
 

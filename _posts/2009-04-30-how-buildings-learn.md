@@ -7,7 +7,7 @@ title: How Buildings Learn (on BBC)
 {{ page.title }}
 ================
 
-<time class="meta">{{ page.date }}</time>
+<p class="meta">{{ page.date }}</p>
 
 It turns out that one of my favorite books, _How Buildings Learn_, was also a BBC mini-series. Stewart Brand himself has uploaded all six of the episodes to google video. If you're interested, I've collected the links here as well.
 

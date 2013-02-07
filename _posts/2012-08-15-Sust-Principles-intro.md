@@ -7,7 +7,7 @@ title: The Sustainabilitist Principles
 {{ page.title }}
 ================
 
-<time class="meta">{{ page.date }}</time>
+<p class="meta">{{ page.date }}</p>
 
 How about I start trying to collect my thoughts here? Should I make this where I start writing my essays? I could then at least use [IA writer](http://www.iawriter.com/ "IA Writer") and simple text files for most of it; easily transferred to any other medium after that.
 	
