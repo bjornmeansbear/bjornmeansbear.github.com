@@ -4,14 +4,14 @@ layout: default
 
 <section class="row">
 
-  <article id="project" class="span12">
+  <article id="project" class="span6">
     <h1>{{page.title}}</h2>
-    <img src="{{ page.image }}" />
+    <time class="meta">{{page.date}}</time>
     {{ content }}
   </article>
   
-  <aside>
-    {{page.categories}}
+  <aside class="span6">
+    <img src="{{ page.image }}" />
   </aside>
 
 </section>
