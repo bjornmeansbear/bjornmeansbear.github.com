@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-05-31 23:06
+date: 2008-04-30 23:06
 title: Starting Points
 ---
 
