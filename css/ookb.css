@@ -345,6 +345,34 @@ main ul.posts {
   /**/
   list-style: none;
   padding: 0;
+}
+
+main ul.posts li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+main ul.posts li:first-child {
+  font-size: 24px;
+  line-height: 32.5px;
+}
+
+main ul.posts li span {
+  color: rgba(96,103,103,1);
+  font-size: 14px;
+  display: inline-block;
+  width: 100px;
+  text-transform: uppercase;
+}
+
+/* for when they are in blocks:
+main ul.posts {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  list-style: none;
+  padding: 0;
   text-align: center;
 }
 
@@ -373,7 +401,7 @@ main ul.posts li span {
   width: 100px;
   text-transform: uppercase;
 }
-
+*/
 
 /* Related Posts Styles */
 aside#related {
