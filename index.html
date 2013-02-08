@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Kristian Bjornard - Designer / Thinker / Sustainabilitist
+title: the Office of Kristian Bjornard - Designer / Thinker / Sustainabilitist
 ---
 
 <section class="row">
   <h1 class="span8 offset2">Thoughts, Notes, Miscellany</h1>
   <ul class="posts span8 offset2">
-    {% for post in site.posts %}
+    {% for work in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
