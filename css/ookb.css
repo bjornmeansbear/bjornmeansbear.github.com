@@ -242,7 +242,7 @@ article ol {
 
 /* Header & Navbar Edits*/
 header.navbar-fixed-top {
-  background: #848478;
+  background: rgba(47,41,38,1);
   border-bottom: 1px solid rgba(175,171,104,1);
   height: 50px;
   line-height: 50px;
@@ -257,6 +257,10 @@ header h1, header h1 a {
   line-height: 19px;
   text-transform: uppercase;
   }
+
+header h1 {
+  border-right: 1px solid rgba(175,171,104,1);
+}
 
 header h1 a em,
 #loader h1 em {
