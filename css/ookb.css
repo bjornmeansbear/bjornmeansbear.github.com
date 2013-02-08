@@ -260,7 +260,7 @@ header a {
 }
 
 header a:hover {
-  text-decoration: 
+  text-decoration: none;
 }
 
 header h1, header h1 a {
@@ -273,7 +273,7 @@ header h1, header h1 a {
   }
 
 header h1 {
-  border-right: 1px solid rgba(175,171,104,1);
+/*   border-right: 1px solid rgba(175,171,104,1); */
 }
 
 header h1 a {
