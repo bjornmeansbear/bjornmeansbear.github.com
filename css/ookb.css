@@ -347,7 +347,8 @@ main ul.posts {
 }
 
 main ul.posts li {
-  display: inline-block;
+  display: block;
+  float: left;
   width:33%;
   height:100px;
   list-style: none;
