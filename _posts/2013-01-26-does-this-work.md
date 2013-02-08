@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Does this work?
+tag: misc
 ---
 
 {{ page.title }}

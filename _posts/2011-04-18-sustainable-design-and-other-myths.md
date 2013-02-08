@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sustainable Design (And Other Myths)
+tags: sustainability
 ---
 
 {{ page.title }}

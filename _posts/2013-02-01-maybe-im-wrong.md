@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Maybe I’m Wrong
+tags: note
 ---
 
 {{ page.title }}

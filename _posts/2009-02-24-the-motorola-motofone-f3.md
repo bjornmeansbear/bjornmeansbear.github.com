@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Motorola Motofone F3
+tags: essay
 ---
 
 {{ page.title }}

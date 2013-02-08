@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Toyota Rant
+tags: rant
 ---
 
 {{ page.title }}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: John Thackara @ LiftFrance ’09
+tags: links
 ---
 
 {{ page.title }}

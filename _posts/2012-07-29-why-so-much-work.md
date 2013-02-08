@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2012-07-29 23:48
-Title: Why So Much Work?
+title: Why So Much Work?
+tags: misc
 ---
 
 {{ page.title }}

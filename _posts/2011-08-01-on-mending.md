@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Mending
+tags: essay
 ---
 
 {{ page.title }}

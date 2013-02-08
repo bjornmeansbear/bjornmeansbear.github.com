@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Quart of Milk
+tags: essay
 ---
 
 {{ page.title }}

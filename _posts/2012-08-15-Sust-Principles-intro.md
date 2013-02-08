@@ -2,6 +2,7 @@
 layout: post
 date: 2012-08-15 17:48
 title: The Sustainabilitist Principles
+tags: sustainability
 ---
 
 {{ page.title }}

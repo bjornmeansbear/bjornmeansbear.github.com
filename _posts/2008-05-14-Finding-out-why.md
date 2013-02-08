@@ -2,6 +2,7 @@
 layout: post
 date: 2008-05-14 13:33:01 -0500
 title: Finding Out Why
+tags: essay
 ---
 
 {{ page.title }}

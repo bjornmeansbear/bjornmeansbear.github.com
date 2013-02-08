@@ -2,6 +2,7 @@
 layout: post
 date: 2008-01-01 00:01
 title: Better Living Through Sustainability
+tags: sustainability
 ---
 
 {{ page.title }}

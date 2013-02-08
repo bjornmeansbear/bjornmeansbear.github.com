@@ -2,6 +2,7 @@
 layout: post
 date: 2009-04-30
 title: How Buildings Learn (on BBC)
+tags: links
 ---
 
 {{ page.title }}

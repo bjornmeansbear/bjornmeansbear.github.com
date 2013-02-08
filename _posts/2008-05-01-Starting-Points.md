@@ -2,6 +2,7 @@
 layout: post
 date: 2008-05-01 23:06
 title: Starting Points
+tags: sustainability
 ---
 
 {{ page.title }}

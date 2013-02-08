@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Sustainabilitist Principles (A Manifesto)
+tags: sustainability
 ---
 
 {{ page.title }}

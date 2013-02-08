@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Do We Use What Already Exists?
+tags: note
 ---
 
 {{ page.title }}

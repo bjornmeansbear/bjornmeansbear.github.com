@@ -1,7 +1,8 @@
 ---
 layout: post
 sate: 2008-07-15 15:02
-Title: The Attainability of Sustainability
+title: The Attainability of Sustainability
+tags: rant
 ---
 
 {{ page.title }}

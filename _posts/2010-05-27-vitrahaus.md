@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vitrahaus
+tags: links
 ---
 
 {{ page.title }}

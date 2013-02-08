@@ -2,6 +2,7 @@
 layout: post
 date: 2008-05-14 14:32
 title: Beginnings
+tags: note
 ---
 
 {{ page.title }}

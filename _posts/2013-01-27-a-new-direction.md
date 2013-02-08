@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A New Direction
+tags: note
 ---
 
 {{ page.title }}
