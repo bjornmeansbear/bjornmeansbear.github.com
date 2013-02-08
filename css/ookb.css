@@ -248,7 +248,6 @@ header.navbar-fixed-top {
   height: 50px;
   line-height: 50px;
   font-size: 16px;
-  /**/
 }
 
 header a {
@@ -310,7 +309,9 @@ header h1 a em,
 header #logo {
   position: absolute;
   top: -10px;
-  left: 20px;
+  left: 25px;
+  width: 100px;
+  height: auto;
 }
 
 /*=======================================*/
