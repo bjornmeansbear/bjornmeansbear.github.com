@@ -4,13 +4,24 @@ title: the Office of Kristian Bjornard - Designer / Thinker / Sustainabilitist
 ---
 
 <section class="row">
+  <h1 class="span8 offset2">Thoughts, Notes, Miscellany</h1>
+  <ul class="posts span8 offset2">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+
+<!--
+<section class="row">
 <!--   <h1 class="span8 offset2">Thoughts, Notes, Miscellany</h1> -->
-  <ul class="posts">
+<!--<ul class="posts">
     {% for post in site.posts %}
       <li class="{{ post.tags }}"><a class="post-title" href="{{ post.url }}">{{ post.title }}</a><time>{{ post.date | date_to_string }}</time></li>
     {% endfor %}
   </ul>
 </section>
+-->
 
 <div id="loader">
   <div class="outer-container">
