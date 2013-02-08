@@ -252,12 +252,15 @@ header.navbar-fixed-top {
 
 header a {
   background: none;
+  border: none;
   color: rgba(132,132,120,1);
   opacity: 1;
+  display: block;
+  padding: 15px;
 }
 
 header a:hover {
-  text-decoration: none;
+  text-decoration: 
 }
 
 header h1, header h1 a {
@@ -265,7 +268,6 @@ header h1, header h1 a {
   font-size: 16px;
   font-weight: 700;
   margin: 0; 
-  padding-left: 150px;
   line-height: 19px;
   text-transform: uppercase;
   }
@@ -274,18 +276,16 @@ header h1 {
   border-right: 1px solid rgba(175,171,104,1);
 }
 
+header h1 a {
+  padding-left: 150px;
+}
+
 header h1 a em,
 #loader h1 em {
   font-family: "gentium book basic", georgia, "times new roman", times, serif !important;
   font-weight: 400 !important;
   text-transform: lowercase !important;
   }
-
-header a {
-  border: none;
-  display: block;
-  padding: 15px;
-}
 
 .navbar-fixed-top nav ul {
   list-style: none;
