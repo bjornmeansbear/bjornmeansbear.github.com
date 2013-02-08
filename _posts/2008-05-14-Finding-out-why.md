@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-08-17 15:10
+date: 2008-05-14 13:33:01 -0500
 title: Finding Out Why
 ---
 
@@ -37,4 +37,4 @@ There is a speed limit, there is a law mandating seat belts in cars, there are e
 
 I wrote this all on a computer. Three computers actually. (As I am reediting this essay, I have now added a fourth computer to this process). It is hosted and served on yet an additional computer (probably several additional ones). I know the inherent problems within each of those plastic and metal cases. It makes me feel a little bit like a hypocrite. However, there is no reason that they could not have been made some better way, the product is not necessarily the problem. There is also no reason that they shouldn’t be solar powered, and have energy and material efficient components. Let us get to it.
 
-_Originally written and published on [Better Living Through Sustainability](http://www.betterlivingthroughsustainability.com/node/4) on 2008-05-14 14:33 … This version contains some updates, revisions, and improvements._
+_Originally written and published on [Better Living Through Sustainability](http://www.betterlivingthroughsustainability.com/node/4) in 2008 at some point … This version contains some updates, revisions, and improvements as of late 2012._

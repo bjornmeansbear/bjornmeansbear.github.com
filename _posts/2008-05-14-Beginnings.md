@@ -23,4 +23,4 @@ This malaise is brought out frequently working as a graphic designer and seeing 
 
 How does one rectify this with the principles of sustainability?
 
-_Originally written and published on [Better Living Through Sustainability](http://http://betterlivingthroughsustainability.com/node/3) on 2008-05-14 14:32 … This version contains some updates, revisions, and improvements._
+_Originally written and published on [Better Living Through Sustainability](http://http://betterlivingthroughsustainability.com/node/3) on 2008-05-14 14:32 … This version contains some updates, revisions, and improvements as of late 2012._
