@@ -5,7 +5,13 @@ layout: default
 <section class="row">
 
   <article id="project" class="span12">
-  {{ content }}
+    <h1>{{page.title}}</h2>
+    <img src="{{ page.image }}" />
+    {{ content }}
   </article>
+  
+  <aside>
+    {{page.categories}}
+  </aside>
 
 </section>
