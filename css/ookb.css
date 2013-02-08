@@ -254,7 +254,11 @@ header a {
   background: none;
   color: rgba(132,132,120,1);
   opacity: 1;
-  }
+}
+
+header a:hover {
+  text-decoration: none;
+}
 
 header h1, header h1 a {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
