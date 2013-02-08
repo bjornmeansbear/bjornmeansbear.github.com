@@ -244,12 +244,15 @@ article ol {
 header.navbar-fixed-top {
   background: rgba(47,41,38,1);
   border-bottom: 1px solid rgba(175,171,104,1);
+  color: rgba(132,132,120,1);
   height: 50px;
   line-height: 50px;
   font-size: 16px;
 }
 
-header h1, header h1 a { 
+header a {background: none;}
+
+header h1, header h1 a {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
