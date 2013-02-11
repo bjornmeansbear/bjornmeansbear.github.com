@@ -4,6 +4,9 @@ title: No-Carbon Energy Solutions
 tags: rant, sustainability
 ---
 
+{{page.title}}
+==============
+
 <p class="meta">21 Mar 2011 - Bolton Hill, Baltimore, MD</p>
 
 ![](/img/BABF.jpg)
