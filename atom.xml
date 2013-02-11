@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>The Office of Kristian Bjornard</title>
- <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
- <link href="http://tom.preston-werner.com/"/>
+ <link href="http://www.ookb.co/atom.xml" rel="self"/>
+ <link href="http://www.ookb.co/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://www.ookb.co/</id>
  <author>
