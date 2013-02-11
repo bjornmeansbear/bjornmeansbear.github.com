@@ -13,8 +13,7 @@ Well, this responsive/adaptive web design topic has been being discussed for qui
 
 Coupling this adaptive mentality, along with the mobile-first approach can result in flexible, sustainable websites that are effective in time and money, and most importantly dazzle and amaze our site visitors. Hurray.
 
-
-+ **Further reading:**  
+### Further reading:
 + [http://www.alistapart.com/articles/responsive-web-design/]()  
 + [http://sixrevisions.com/web_design/understanding-the-elements-of-responsive-web-design/]()
 + [http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/]()
