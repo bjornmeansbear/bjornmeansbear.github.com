@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No-Carbon Energy Solutions
-tags: rant, sustainability
+tags: rant, sustainability, observation, BLTS
 ---
 
 {{page.title}}
