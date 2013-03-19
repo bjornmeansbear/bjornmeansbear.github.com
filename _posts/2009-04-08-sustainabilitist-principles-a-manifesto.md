@@ -11,7 +11,7 @@ tags: sustainability
 
 Environmentalism’s goal was environmental sustainability. Post-environmentalism’s goal must be true sustainability. I propose a new term for the followers of post-environmentalism: Sustainabilitists. We sustainabilitists shall take over where the environmentalists leave off, moving sustainability from the realm of the environment into all realms. The following principles will help move our ideas and actions into the region of the truly sustainable. We sustainabilitists must allow our designs, strategies and methodologies to evolve and adapt to new ideas. In keeping within its own principles, this manifesto and its concepts will be in a constant state of flux.
 
-—————
+====
 
 ### Agility
 Change must happen fast—but raw speed alone is not enough. The rapid growth of industrialism got us into this mess; quick, precise and nimble actions now will get us out of it.
@@ -67,4 +67,4 @@ Allowing time to pass opens the door to adaptability and evolution. We must adop
 ### Wealth
 Sustainabilitist “wealth” encompasses all areas of resources (knowledge, information, water, food, etc), not just monetary. The sustainabilitist world revolves around the fair distribution and dissemination of these values.
 
-_These were written originally as part of my graduate school thesis explorations. Many subsequent iterations and updates have followed …_
+_These were written originally as part of my graduate school thesis explorations. Many subsequent iterations and updates have followed … a new version is posted later_
