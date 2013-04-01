@@ -122,79 +122,11 @@ article ol {
 /*=======================================*/
 /*=======================================*/
 
-/* Header & Navbar Edits*/
-header.navbar-fixed-top {
-  background: rgba(47,41,38,1);
-  border-bottom: 1px solid rgba(175,171,104,1);
-  color: rgba(132,132,120,1);
-  height: 50px;
-  line-height: 50px;
-  font-size: 16px;
-}
-
-header a {
-  background: none;
-  border: none;
-  color: rgba(132,132,120,1);
-  opacity: 1;
-  display: block;
-  padding: 15px;
-}
-
-header a:hover {
-  text-decoration: none;
-}
-
-header h1, header h1 a {
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  font-weight: 700;
-  margin: 0; 
-  line-height: 19px;
-  text-transform: uppercase;
-  }
-
-header h1 {
-/*   border-right: 1px solid rgba(175,171,104,1); */
-}
-
-header h1 a {
-  padding-left: 150px;
-}
-
-header h1 a em,
 #loader h1 em {
   font-family: "gentium book basic", georgia, "times new roman", times, serif !important;
   font-weight: 400 !important;
   text-transform: lowercase !important;
   }
-
-.navbar-fixed-top nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.navbar-fixed-top nav ul li {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  float: left;
-}
-
-.navbar-fixed-top nav ul li a {
-  border-left: 1px solid rgba(175,171,104,1);
-  font-weight: 400;
-  list-style: none;
-}
-
-header #logo {
-  position: absolute;
-  top: -28px;
-  left: 24px;
-  width: 115px;
-  height: auto;
-}
 
 /*=======================================*/
 /*=======================================*/
@@ -228,7 +160,6 @@ main ul.posts li span {
   width: 100px;
   text-transform: uppercase;
 }
-
 
 /* Related Posts Styles */
 aside#related {
