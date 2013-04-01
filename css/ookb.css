@@ -52,16 +52,6 @@ p {
 em, cite { font-style: italic; }
 strong { font-weight: 700;}
 
-h1  {
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  font-weight: 800 !important;
-}
-
-h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  font-weight: 400 !important;
-}
-
 .past h2 {
   font-size: 17px;
   line-height: 20px;
