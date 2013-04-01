@@ -114,6 +114,26 @@
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/ookb.js"></script>
+
+    <!-- HIDE AND SHOW NAV AND MAIN CONTENT FOR LARGER DISPLAYS -->
+    <script>
+
+      //set width of the nav element at the top
+      var w = $(window).width()
+      $("nav.mainnav").css("width", w-40 + "px" ); 
+
+    </script>
+    
+    <!-- scroll page down to elements and IDs -->
+    <script>
+      // Some Custom JS for the site
+      // scroll to content when you click on the logo. - retrieved from http://www.sycha.com/jquery-smooth-scrolling-internal-anchor-links
+      $(".scroll").click(function(event){    
+        event.preventDefault();
+        $('html,body').animate({scrollTop:$(this.hash).offset().top}, 1000);
+      });
+    </script>
+
     
     <!-- google analytics code -->
     <script type="text/javascript">
