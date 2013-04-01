@@ -32,138 +32,6 @@
 /*=======================================*/
 /*=======================================*/
 
-
-html {
-  background: #848478 /* url(http://soundmachinedream.com/sites/all/i/kblogo-bg.png) left top no-repeat */;
-}
-
-body {
-  background: none !important;
-  color: rgba(55,46,42,1); 
-}
-
-@media (min-width: 979px) { 
-  body { margin-top: 86px; }
-}
-
-a { 
-  color: rgba(55,46,42,1); 
-  text-decoration: none;
-  background: rgba(132,132,120,.1);  
-  border-bottom: 1px solid #EC4079;
-  padding: 1px 2px 1px 2px;
-  /**/
-  transition: background;
-  transition-duration: 500ms;
-  -webkit-transition: background;
-  -webkit-transition-duration: 500ms;
-  -moz-transition: background;
-  -moz-transition-duration: 500ms;
-  -o-transition: background;
-  -o-transition-duration: 500ms;
-  -ms-transition: background;
-  -ms-transition-duration: 500ms;
-  }
-  
-a:hover { 
-  color: white;
-  background: #EC4079;
-  }
-
-a:link {
-  -webkit-tap-highlight-color: #FF5E99;
-}
-
-::selection {
-background: #EC4079;
-color: white;
-text-shadow: none;
-}
-
-/*=======================================*/
-/*=======================================*/
-/*=======================================*/
-
-/* TYPOGRAPHY STUFF */
-/* @Font-Face */
-/* Gentium */
-@font-face {
-  font-family: 'Gentium Book Basic';
-  font-style: italic;
-  font-weight: normal;
-  src: local('Gentium Book Basic Italic'), local('GentiumBookBasic-Italic'), url('http://themes.googleusercontent.com/static/fonts/gentiumbookbasic/v3/qHqW2lwKO8-uTfIkh8FsUW9ZVGYl7-DCiNGjac5stJT3rGVtsTkPsbDajuO5ueQw.woff') format('woff');
-}
-@font-face {
-  font-family: 'Gentium Book Basic';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Gentium Book Basic'), local('GentiumBookBasic'), url('http://themes.googleusercontent.com/static/fonts/gentiumbookbasic/v3/IRFxB2matTxrjZt6a3FUnq6Rv-X66d7QWAwIQQ5u8Sc.woff') format('woff');
-}
-
-/* gentium stack for now:   font-family: "gentium book basic", georgia, "times new roman", times, serif; */
-
-/*Open Sans*/
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 600;
-  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/MTP_ySUJH_bn48VBG8sNSqRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 800;
-  src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/EInbV5DfGHOiMmvb1Xr-hqRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 300;
-  src: local('Open Sans Light Italic'), local('OpenSansLight-Italic'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxvR_54zmj3SbGZQh3vCOwvY.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/xjAJXh38I15wypJXxuGMBrrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 600;
-  src: local('Open Sans Semibold Italic'), local('OpenSans-SemiboldItalic'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxuw_rQOTGi-AJs5XCWaKIhU.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxhbnBKKEOwRKgsHDreGcocg.woff) format('woff');
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 800;
-  src: local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxsBo4hlZyBvkZICS3KpNonM.woff) format('woff');
-}
-
 html {
   height: 101%;
   text-rendering: optimizeLegibility;
@@ -239,16 +107,11 @@ article ol {
 }
 
 #post p.meta {
-/*
-  border-top: 1px solid rgba(96,103,103,1);
-  border-bottom: 1px solid rgba(96,103,103,1);
-*/
   color: rgba(96,103,103,1);
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 14px;
   margin: 19.5px 0;
-/*   padding: 13px 0; */
   text-indent: 0;
 }
 
@@ -366,42 +229,6 @@ main ul.posts li span {
   text-transform: uppercase;
 }
 
-/* for when they are in blocks:
-main ul.posts {
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 26px;
-  list-style: none;
-  padding: 0;
-  text-align: center;
-}
-
-main ul.posts li {
-  display: block;
-  float: left;
-  width:33%;
-  height:100px;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
-
-main ul.posts li:first-child {
-  width: 100%;
-  height: 200px;
-  font-size: 24px;
-  line-height: 32.5px;
-}
-
-main ul.posts li span {
-  color: rgba(96,103,103,1);
-  font-size: 14px;
-  display: inline-block;
-  width: 100px;
-  text-transform: uppercase;
-}
-*/
 
 /* Related Posts Styles */
 aside#related {
@@ -416,15 +243,6 @@ aside#related {
 /*=======================================*/
 /*=======================================*/
 /*=======================================*/
-
-/* Footer Edits*/
-footer {
-  border-top: 1px solid rgba(175,171,104,1);
-  margin-top: 86px;
-  margin-bottom: 43px;
-  padding-top: 26px;
-}
-
 /*=======================================*/
 /*=======================================*/
 /*=======================================*/
