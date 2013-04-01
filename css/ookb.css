@@ -101,8 +101,8 @@ article ol {
   text-transform: lowercase !important;
   }
 
-/* Main homepage "notes" link list */
-main ul.posts {
+/* #main homepage "notes" link list */
+#main ul.posts {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
@@ -111,18 +111,18 @@ main ul.posts {
   padding: 0;
 }
 
-main ul.posts li {
+#main ul.posts li {
   list-style: none;
   margin: 5px 0;
   padding: 0;
 }
 
-main ul.posts li:first-child {
+#main ul.posts li:first-child {
   font-size: 24px;
   line-height: 32.5px;
 }
 
-main ul.posts li span {
+#main ul.posts li span {
   color: rgba(96,103,103,1);
   font-size: 14px;
   display: inline-block;
@@ -197,7 +197,7 @@ aside#related {
   width: 50%;
   margin: 0 auto;
   font-size: 80%;
-  }
+}
 
 #loader .outer-container .inner-container p.close {
   position: absolute;
