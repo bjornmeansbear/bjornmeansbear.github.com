@@ -35,15 +35,6 @@
 html {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-}
-
-body, p, a {
-  font-family: "gentium book basic", georgia, "times new roman", times, serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-p {
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   hyphens: auto;
@@ -72,7 +63,7 @@ article ol {
   padding: 0;
 }
 
-.stricken {
+.stricken, del {
   text-decoration: line-through;
 }
 
@@ -104,22 +95,11 @@ article ol {
   text-indent: 0;
 }
 
-
-/* /END TYPOGRAPHY */
-
-/*=======================================*/
-/*=======================================*/
-/*=======================================*/
-
 #loader h1 em {
   font-family: "gentium book basic", georgia, "times new roman", times, serif !important;
   font-weight: 400 !important;
   text-transform: lowercase !important;
   }
-
-/*=======================================*/
-/*=======================================*/
-/*=======================================*/
 
 /* Main homepage "notes" link list */
 main ul.posts {
@@ -158,7 +138,6 @@ aside#related {
   margin-top: 39px;
   padding-top: 19.5px;
 }
-
 
 /*=======================================*/
 /*=======================================*/
