@@ -1,6 +1,6 @@
 ---
 layout: post
-sate: 2008-07-15 15:02
+date: 2008-07-15 15:02
 title: The Attainability of Sustainability
 tags: rant
 ---
