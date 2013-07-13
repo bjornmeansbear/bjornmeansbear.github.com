@@ -11,6 +11,8 @@ tags: links
 
 Who knew a pile of stacked, pitched roof boxes could be so amazing.
 
+![](http://www.vitra.com/en-un/_storage/asset/101076/storage/v_smallbleed_600x/file/2600890/01201668.jpgScheme)
+
 This is one of the few new buildings I have seen that really impresses me and extends my imagination for what a structure can be.
 
 All by taking a standard, vernacular shape and using it wonderfully.
