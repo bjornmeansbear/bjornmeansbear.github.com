@@ -1,4 +1,2 @@
-markdown: redcarpet
-redcarpet:
-  extensions: [footnotes]
+markdown: kramdown
 pygments: true
