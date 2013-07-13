@@ -8,6 +8,9 @@ layout: default
   {{ content }}
   </article>
 
+</section>
+
+<section class="row">
   <aside>
     {% for post in site.posts %}
       {% if post.url == page.url %}
@@ -24,13 +27,12 @@ layout: default
       {% endif %}
     {% endfor %}
     {% if next_post %}
-      <a class="btn" href="{{ next_post }}">Next Post</a>
+      <a class="btn span2 pull-right" href="{{ next_post }}">Next Post</a>
     {% endif %}
     {% if prev_post %}
-      <a class="btn" href="{{ prev_post }}">Previous Post</a>
+      <a class="btn span2" href="{{ prev_post }}">Previous Post</a>
     {% endif %}
   </aside>
-  
 </section>
 
 <section class="row">
