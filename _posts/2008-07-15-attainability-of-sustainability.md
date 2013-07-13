@@ -18,4 +18,4 @@ But how to judge truly attainable sustainable solutions without having to name t
 
 As design educators and as students we can help instill changes in society and culture. We can make sure future designers (ourselves included) are able to understand and solve the problems of sustainability.
 
-_Originally written and published on [Better Living Through Sustainability](http://http://betterlivingthroughsustainability.com/node/7) in mid-2008 at some point; Anyway, this version contains some updates, revisions, and improvements._
+**Originally written and published on [Better Living Through Sustainability](http://http://betterlivingthroughsustainability.com/node/7) in mid-2008 at some point; Anyway, this version contains some updates, revisions, and improvements.**
