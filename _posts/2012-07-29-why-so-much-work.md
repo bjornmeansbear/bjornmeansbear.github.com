@@ -2,13 +2,10 @@
 layout: post
 date: 2012-07-29 23:48
 title: Why So Much Work?
-tags: misc
+location: Bolton Hill, Baltimore, MD
+tags:
+  - misc
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">{{ page.date }}</p>
 
 ## I mean it
 

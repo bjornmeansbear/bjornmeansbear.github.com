@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You Can’t Do Everything
+date: 2013-03-25
 location: Stone Hill, Baltimore, MD
 ---
 
