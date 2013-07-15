@@ -4,11 +4,6 @@ date: 2013-05-22 19:28
 title: On Hipsters
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">{{ page.date }}</p>
-
 While having a convivial conversation† over a couple beers‡, my friend, Mike McCaffrey, started me down this direction around a few ideas about what being a “hipster” means and what it is representational of. It was interesting stuff: thinking about how we consume and what we buy and what that might mean about us as individuals. 
 
 The discussion went something like this:

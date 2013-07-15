@@ -2,13 +2,10 @@
 layout: post
 date: 2008-05-01 23:06
 title: Starting Points
-tags: sustainability
+location: MICA Brown 308, Baltimore, MD
+tags: 
+  - sustainability
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">{{ page.date }}</p>
 
 To change the direction of sustainable practice in America the whole idea and the entire way in which we talk about “sustainability” must change. I will feel happy when one day we can stop talking about whether a product is _sustainable_, or _safe_, or _recyclable_, because that is just the way that every thing _is_. Imagine a world where you can feel good about every object that is made, sold, bought or consumed. Would that not be amazing and wonderful? This is the utopian ideal that I aim to pursue and direct others towards.
 
