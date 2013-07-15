@@ -1,13 +1,11 @@
 ---
 layout: post
 title: How Do We Use What Already Exists?
-tags: note
+date: 2009-05-06
+location: MFA Studio, Baltimore, MD
+tags: 
+  - note
 ---
-
-{{ page.title }}
-================
-
-<span class="meta">06 May 2009 - GD MFA Studio, MICA, Baltimore, MD</span>
 
 How do we use what already exists and how do we create and maintain flexibility so that new buildings and old buildings can  maintain their uniqueness but also be a part?
 

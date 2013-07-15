@@ -1,13 +1,9 @@
 ---
 layout: post
-date: 2009-04-28
 title: An Explanation
+date: 2009-04-28
+location: MFA Studio, Baltimore, MD
 ---
-
-{{page.title}}
-==============
-
-<p class="meta">28 Apr 2009 - MFA Studio, Baltimore, MD</p>
 
 My work revolves around inserting sustainability into my design practice. In attempting to create what I would like to call “sustainable graphic design” I have had many different stops and starts. I have done things as simple as diagram my carbon footprint and the world's oil reserves to the writing of essays and rants on the subject. The pieces represented in my exhibition barely scratch the surface as to what I have investigated, contemplated and designed over the last two years. My works are different ways of spreading the myriad messages of sustainability without feeling preachy or condescending. The goal I set for myself has always been to create a simpler understanding of the topic, while making it friendlier, yet still serious. What started out as a simple attempt to uncover an aesthetic for the realm of the sustainable ended up a diverse body of work encompassing many different media.
 

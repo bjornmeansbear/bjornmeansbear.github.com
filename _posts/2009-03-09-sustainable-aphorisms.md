@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Sustainable Aphorisms
+date: 2009-03-09
+location: MFA Studio, Baltimore, MD
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">09 March 2009 - MFA Studio, Baltimore, MD</p>
 
 **Agility**
 Change must happen fast—but raw speed alone is not enough. The rapid growth of industrialism got us into this mess; quick, precise and nimble actions now will get us out of it.

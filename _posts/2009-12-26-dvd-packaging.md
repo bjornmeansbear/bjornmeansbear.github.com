@@ -1,12 +1,9 @@
 ---
 layout: post
 title: DVD Packaging
+date: 2009-12-26
+location: Bolton Hill, Baltimore, MD<
 ---
-
-{{page.title}}
-==============
-
-<p class="meta">26 Dec 2009 - Bolton Hill, Baltimore, MD</p>
 
 My family recently exchanged christmas gifts and several DVD's were given out. What's the deal with the new DVD packages? The stupid sleeve over the plastic case that duplicates the printed matter ON the plastic case …
 

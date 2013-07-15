@@ -1,13 +1,11 @@
 ---
 layout: post
 title: The Sustainabilitist Principles (A Manifesto)
-tags: sustainability
+date: 2009-04-08
+location: MICA GDMFA Studio, Baltimore MD
+tags: 
+  - sustainability
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">08 April 2009 — MICA GDMFA Studio, Baltimore MD</p>
 
 Environmentalism’s goal was environmental sustainability. Post-environmentalism’s goal must be true sustainability. I propose a new term for the followers of post-environmentalism: Sustainabilitists. We sustainabilitists shall take over where the environmentalists leave off, moving sustainability from the realm of the environment into all realms. The following principles will help move our ideas and actions into the region of the truly sustainable. We sustainabilitists must allow our designs, strategies and methodologies to evolve and adapt to new ideas. In keeping within its own principles, this manifesto and its concepts will be in a constant state of flux.
 

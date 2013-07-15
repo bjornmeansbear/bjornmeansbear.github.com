@@ -5,11 +5,6 @@ title: How Buildings Learn (on BBC)
 tags: links
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">{{ page.date }}</p>
-
 It turns out that one of my favorite books, _How Buildings Learn_, was also a BBC mini-series. Stewart Brand himself has uploaded all six of the episodes to google video. If you're interested, I've collected the links here as well.
 
 1. [Flow](http://video.google.com/videoplay?docid=8639555925486210852&q=source%3A006128292202570032154&hl=en)
@@ -20,6 +15,3 @@ It turns out that one of my favorite books, _How Buildings Learn_, was also a BB
 6. [Shearing Layers](http://video.google.com/videoplay?docid=2283224496826631552&q=source%3A006128292202570032154&hl=en)
 
 Enjoy.
-
-
-

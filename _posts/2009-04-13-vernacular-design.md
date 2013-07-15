@@ -1,13 +1,11 @@
 ---
 layout: post
 title: How Buildings (and sustainable graphic design) Learn
-tags: essay
+date: 2009-04-13
+location: MFA Studio, Baltimore, MD
+tags: 
+  - essay
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">13 April 2009 - MFA Studio, Baltimore, MD</p>
 
 Vernacular design, as Stewart Brand describes it in *How Buildings Learn*, provides a systematic framework for building based on a series of foundational principles: efficiency and thrift of materials and time, a focus on context-driven form, and evolution over time. 
 

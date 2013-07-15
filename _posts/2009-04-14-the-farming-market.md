@@ -1,12 +1,9 @@
 ---
 layout: post
 title: The Farming Market
+date: 2009-04-14
+location: MFA Studio, Baltimore, MD
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">14 April 2009 - MFA Studio, Baltimore, MD</p>
 
 Our cities, suburbs and exurbs are filled with abandoned structures. Many of these now empty lots were once forest or farmland. The Farming Market model proposes adapting the large sized buildings, of warehouse type construction, into urban greenhouses. The goal will be to provide new agrarian jobs inside and near cities to increase local food supply, create jobs, foster new community, and generally promote sustainable ideals.
 
