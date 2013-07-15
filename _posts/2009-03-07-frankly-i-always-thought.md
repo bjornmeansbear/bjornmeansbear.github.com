@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Frankly, I always thought I would end up a rocket surgeon.
-tags: essay
+date: 2009-03-07
+location: MFA Studio, Baltimore, MD
+tags:
+  - essay
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">07 March 2009 - MFA Studio, Baltimore, MD</p>
 
 The direction of my educational life changed one brisk fall day in Kalamazoo Michigan. The leaves were turning their golds and reds and preparing to fall from the trees. But the leaves weren't the only things falling, my interest my coursework was too. The same cool breeze bringing a change in the weather brought a change in my scholastic direction.
 

@@ -1,13 +1,11 @@
 ---
 layout: post
 title: The Motorola Motofone F3
-tags: essay
+date: 2009-02-29
+location: MFA Studio, Baltimore, MD
+tags: 
+  - essay
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">24 Feb 2009 - MFA Studio, Baltimore, MD</p>
 
 ![Motofone Drawing by KB](/img/motofone.png)
 
