@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Sustainable Design (And Other Myths)
-tags: sustainability
+date: 2011-04-18
+location: Bolton Hill, Baltimore, MD
+tags:
+  - sustainability
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">18 Apr 2011 - Bolton Hill, Baltimore, MD</p>
 
 Hearing about one more product made of a new, sustainable material and/or produced thanks to clean, green energy without any other thinking applied to the manufacturing, distribution, and marketing models is going to give me an aneurysm. Considering any object “sustainable design” purely because a material was changed for a less-bad option is ludicrous. Sustainability isn’t about slightly improving the status quo, it is about actual change. 
 

@@ -1,13 +1,11 @@
 ---
 layout: post
 title: On Mending
-tags: essay
+date: 2011-08-01
+location: Bolton Hill, Baltimore, MD
+tags:
+  - essay
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">01 Aug 2011 - Bolton Hill, Baltimore, MD</p>
 
 My father used to take our lawn mower to the small engine repairman. Here was this guy in his garage-turned-shop surrounded by mowers, outboards, dirt-bikes, and various unidentifiable mechanical contraptions — and he knew how to make them all work! I respected that when I was a kid. I respect that now as an adult. Few others these days seem to. My father (and most of my childhood friends’ fathers) seemed to know either a) how to fix something, or b) that person in town best suited to fix whatever they could not. Where is that knowledge now? 
 

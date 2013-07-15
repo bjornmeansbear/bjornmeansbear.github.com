@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Toyota Rant
-tags: rant
+date: 2011-01-14
+location: Bolton Hill, Baltimore, MD<
+tags:
+  - rant
 ---
 
 {{ page.title }}

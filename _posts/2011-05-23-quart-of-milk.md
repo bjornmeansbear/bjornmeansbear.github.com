@@ -1,13 +1,11 @@
 ---
 layout: post
 title: A Quart of Milk
-tags: essay
+date: 2011-05-23
+location: Bolton Hill, Baltimore, MD
+tags:
+  - essay
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">23 May 2011 - Bolton Hill, Baltimore, MD</p>
 
 I've been busy lately, really busy, and half-gallons and gallons of Milk no longer seem to empty themselves in my (and my girlfriend's) refrigerator before their expiration. The problem was exacerbated by summer when drinking a frothy glass of milk just hasn’t seemed quite right. So, to try and keep spoilage to a minimum I switched to buying Quarts of milk instead.
 

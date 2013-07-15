@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Building a Better Bus System
+date: 2011-07-07
+location: Bolton Hill, Baltimore, MD
 ---
-
-{{page.title}}
-==============
-
-<p class="meta">07 Jul 2011, Bolton Hill, Baltimore, MD</p>
 
 The last couple of weeks have had me thinking about improving transportation in Baltimore (and really, in America in general). This has partially to do with riding the train back and forth between New York and Baltimore several times over the span of just a few weeks. It also has something to do with a competition that is currently going on in Baltimore around the new proposed Red Line East-West Light Rail line. The main thought I’ve had is: why build trains when we already have roads?
 

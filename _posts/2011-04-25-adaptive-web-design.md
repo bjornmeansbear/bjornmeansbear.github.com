@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Adaptive Web Design
-tags: web design, observation
+date: 2011-05-25
+location: Bolton Hill, Baltimore, MD
+tags:
+  - web design
+  - observation
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">25 Apr 2011 - Bolton Hill, Baltimore, MD</p>
 
 Well, this responsive/adaptive web design topic has been being discussed for quite some time now ([The initial post](http://www.alistapart.com/articles/responsive-web-design/) that sparked it all is nearly a year old). So, while I may not be giving you too much new to think about, the reason I post this is that it feels like the ideology that drives the desire for making “adaptive” websites is part of the sustainable ethos I try to disseminate on this site. The idea of flexibility and adaptability are included in my [Sustainabilitist principles](http://thesustainabilitist.com). It is also my preference that a website just be smart enough to show what it needs to show to the people viewing it based on the device they choose. In this contemporary age of magical JS, CSS, and HTML5 solutions, there is no reason that we can't just build websites that show you one thing on your phone, one thing on your tablet, and one thing from your laptop or desktop all just pulled from the same site data. Why make an iphone app, droid app, blackberry app, etc. when you can just make one webpage? Coupling this adaptive mentality, along with the mobile-first approach can result in flexible, sustainable websites that are effective in time and money, and most importantly dazzle and amaze our site visitors. Hurray.
 
