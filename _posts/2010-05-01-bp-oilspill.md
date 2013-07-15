@@ -1,12 +1,9 @@
 ---
 layout: post
 title: BP Oilspill
+date: 2010-05-01
+location: Bolton Hill, Baltimore, MD<
 ---
-
-{{page.title}}
-==============
-
-<p class="meta">01 May 2010 - Bolton Hill, Baltimore, MD</p>
 
 So, the BP oil spill can be basically seen as a giant design problem.
 

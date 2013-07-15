@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Overdesigned Give-aways
+date: 2010-05-25
+location: Bolton Hill, Baltimore, MD<
 ---
-
-{{page.title}}
-==============
-
-<p class="meta">25 May 2010 - Bolton Hill, Baltimore, MD</p>
 
 My girlfriend returned from a stay at a “W” hotel while on some business. After the usual small-talk accompanying the end of a trip, she presented me with the pen from her hotel room. What a beauty, and what utter insanity.
 

@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Vitrahaus
-tags: links
+date: 2010-05-27
+location: Bolton Hill, Baltimore, MD<
+tags:
+  - links
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">27 May 2010 - Bolton Hill, Baltimore, MD</p>
 
 Who knew a pile of stacked, pitched roof boxes could be so amazing.
 

@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Posts for Posts Sake
-tags: note
+date: 2010-07-15
+location: Bolton Hill, Baltimore, MD<
+tags: 
+  - note
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">15 July 2010 - Bolton Hill, Baltimore, MD</p>
 
 I read a lot of stuff online—a lot. Blogs, Tweets, Magazines, Journals, News, Humor, you name it. Having been following some people on twitter now for a while — people who are supposed to be trendsetters and experts and newsmakers, whatever — I have been getting a bitter taste in my mouth the more I see of what they put out. It is like some of them are writing and posting articles just to be writing and posting articles. Perhaps I should not be surprised by this.
 

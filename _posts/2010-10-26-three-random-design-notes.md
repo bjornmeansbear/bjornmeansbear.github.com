@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Three Random Design Notes
-tags: note
+date: 2010-10-26
+location: Bolton Hill, Baltimore, MD<
+tags:
+  - note
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">26 Oct 2010 - Baltimore, MD</p>
 
 1. Drinking pitchers should never be ridged on the inside. They are then impossible to clean.
 
