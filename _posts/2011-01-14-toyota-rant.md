@@ -7,11 +7,6 @@ tags:
   - rant
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">14 Jan 2011 - Baltimore, MD</p>
-
 Toyota’s new advertisement campaign (more or less) titled “How would you use our technology to make the world better” misses something … that the average person doesn’t really know how any of this stuff works … so how can they apply it logically to the real world?
 
 Part of the problem is toyota’s. With their hybrid system ads they explain that braking recharges the batteries. What they don’t explain is that the gas you burned to get the Prius up to speed in the first place is still more energy than you can get back from braking … but in the commercial it sounds almost like a cyclical, perpetual system.
